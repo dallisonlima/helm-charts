@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  python-demo:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2025-01-21T22:59:55.307444166-03:00"
+    description: A Helm chart for deploying a Python demo application
+    digest: 16584540266d0cf8fb58b366b3f8a7df1649e619ffb06c18610a4e10b2fef037
+    name: python-demo
+    type: application
+    urls:
+    - https://dallisonlima.github.io/helm-charts/python-demo-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-01-21T22:59:55.306878795-03:00"
